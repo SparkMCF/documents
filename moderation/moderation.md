@@ -13,7 +13,7 @@ url: http://www.minecraftforum/about/moderation
 
 Thank you for volunteering to take part in helping moderate the Minecraft Forum, your contributions to the forum will benefit a wide range of people, from casual Minecraft players to the most committed, and your experiences here will help you build skills, both new and old. 
 
-As a new staff member it can be daunting to get started, and building familiarity with our tools and proccess takes time, that's why we encourage all staff members to ask questions and learn at their own pace. Mistakes aren't a big deal either, mistakes happen, they'll always happen, as long as we work together and adhere to our code of conduct we can move past them.
+As a new staff member it can be daunting to get started, and building familiarity with our tools and proccess takes time, that's why we encourage all staff members to ask questions and learn at their own pace. Mistakes aren't a big deal either, mistakes happen, they'll always happen, as long as we work together and adhere to our code of conduct we can provide an excellent platform for Minecraft fans.
 
 # Staff Code of Conduct
 
