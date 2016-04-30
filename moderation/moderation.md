@@ -17,15 +17,15 @@ As a new staff member, it can be daunting to get started, and building familiari
 
 # Staff Code of Conduct
 
-Minecraft Forum staff members represent the Minecraft Forum both on and off the forum, and their behaviour must reflect on the high standards we hold ourselves to.
+Minecraft Forum staff members represent the Minecraft Forum both on and off the forum, and their behaviour must reflect our high standards.
 
 ## Communication
 
-Public and private communication between staff and members must be polite and constructive at all times, every member must be given the opportunity to voice their questions or concerns and receive a fair and measured response. If a staff member feels they aren't able to provide an adequate response for any reason, such as conflict of interest or lack of knowledge, they should defer to another staff member who can.
+Public and private communication between staff and members must be polite and constructive at all times, every member must have the opportunity to voice their questions or concerns and receive a fair and measured response. If a member of staff feels they aren't able to provide an adequate response for any reason, such as conflict of interest or lack of knowledge, they should defer to another staff member.
 
 ## Privacy
 
-The privacy of each member of the forum must be respected at all times regardless of their behaviour. Any private information must not be disclosed to any non staff member without the members explicit permission. Private information includes warnings, IP addresses, email addresses, reports and private discussions.
+The privacy of each member of the forum must be respected at all times regardless of their behaviour. Staff members must not disclose any private information to any non-staff member without the members explicit permission. Private information includes warnings, IP addresses, email addresses, reports and private discussions.
 
 ## Transparency
 
@@ -33,15 +33,15 @@ Moderation and management policy, decisions and procedures should be transparent
 
 ## Conflicts of Interest
 
-Any actual or perceived conflicts of interest must be addressed by escalating to a staff member who does not have any perceived or actual conflict. For example moderators should not moderate their own threads, and administrators should not handle appeals against warnings they have issued.
+Any actual or perceived conflicts of interest must be addressed by escalating to a staff member who does not have any perceived or actual conflict. Moderators should not moderate their own threads, and administrators should not handle appeals against warnings they have issued.
 
 # Staff Responsibilities
 
-The Minecraft Forum Staff are responsible for ensuring that the Minecraft Forum is an excellent resource for Minecraft players to learn about the game, discover new content and share their creations, while fostering a friendly and welcoming environment for all.
+The Minecraft Forum Staff are responsible for ensuring that the Minecraft Forum is an excellent resource for Minecraft players to learn about the game, discover new content and share their creations while fostering a friendly and welcoming environment for all.
 
 ## Site Administrators
 
-Site Administrators are responsible for identifying the needs of staff, members and users, and using this information to shape the forum, including forum organisation, features and policy. Site Administrators work with the Curse development and product teams on designing the software used by the forum, representing the needs of the Minecraft Forum community in these discussions.
+Site Administrators are responsible for identifying the needs of staff, members and users, and using this information to shape the forum, including section organisation, features and policy. Site Administrators work with the Curse development and product teams on designing the software used by the forum, representing the needs of the Minecraft Forum community in these discussions.
 
 ## Forum Administrators
 
@@ -65,20 +65,20 @@ The Minecraft Forum Control Panel is protected by [2 Factor Authentication](http
 
 ## Account Compromises
 
-Staff members should always err on the side of caution and inform administrators of any concerns they have about their account security, this includes Minecraft Forum accounts, Email accounts and Trello accounts. Administrators must be informed immediately when there has been a compromise so that the Minecraft Forum account access can be locked down.
+Staff members should always err on the side of caution and inform administrators of any concerns they have about their account security; this includes Minecraft Forum accounts, Email accounts and Trello accounts. Administrators must be informed when there has been a compromise so that the Minecraft Forum account access can be locked down.
 
 # Moderation Tools
 
 ## Account Preferences
 
-Moderators have access to additional options, these options are managed via [My Account > Preferences](http://www.minecraftforum.net/account/preferences).
-    
+Moderators have access to additional options via [My Account > Preferences](http://www.minecraftforum.net/account/preferences).
+ 
 * Show Deleted Content 
 * Show Content Marked as Spam
 * Show Hellban Content
 * Show Censored Content
 
-These options should always be enabled because effective moderation depends on having all relevant information, which can often be within hidden posts.
+These options should always be enabled because moderation depends on having all relevant information, which can often be within hidden posts.
 
 ## Reports
 
@@ -86,7 +86,7 @@ Members report items (such as posts, members, comments, servers) by selecting fr
 
 ### Statuses
 
-Reports enter the system with the **new** status and from there moderators change the status as the report is acted on.
+Reports enter the system with the **new** status and from there moderators change the status as they act on the report.
 
 | Status | Description |
 | --- | --- |
@@ -98,7 +98,7 @@ Reports enter the system with the **new** status and from there moderators chang
 
 ### Escalating a Report
 
-Some reports require input from or action by a specific member of staff, however the report system does not have native support for assigning reports. To work around this issue we use Trello and the Escalated report status. A card should be created and assigned to the staff member on the [Forum Moderation Trello Board](https://trello.com/b/VP7ordvf/forum-moderation) with a link to the report attached, then the report should be marked as Escalated with a comment linking to the Trello card.
+Some reports require input from or action by a particular member of staff, however the report system does not have native support for assigning reports. To work around this issue we use Trello and the Escalated report status. A card should be created and assigned to the staff member on the [Forum Moderation Trello Board](https://trello.com/b/VP7ordvf/forum-moderation) with a link to the report attached, then the report should be marked as Escalated with a comment providing a link to the trello card.
 
 ## Status Notes
 
@@ -125,7 +125,7 @@ The <kbd>Delete</kbd> option hides content from public view and collapses the co
 
 ## Post History 
 
-To view the history of a post, including all changes made by the author and moderators, click on <kbd>Post History</kbd> in the <kbd>Tools</kbd> menu. From the drop down menu of revisions you can preview by selecting a revision, and Rollback to a revision if neccessary. 
+To view the history of a post, including all changes made by the author and moderators, click on <kbd>Post History</kbd> in the <kbd>Tools</kbd> menu. From the drop down menu of revisions you can preview by selecting a revision, and Rollback to the revision if necessary. 
 
 ## Spam
 
@@ -151,7 +151,7 @@ Members can submit appeals if they feel that a warning has been issued incorrect
 
 ## Bans
 
-A ban is a restriction on a members account. These restrictions can affect posting, visiting and interacting with the forum. When you issue a formal warning to someone they receive warning points dependent on the Warning Definition. These points are then used to trigger automatic posting bans, and the length of a posting depends on the amount of points.
+A ban is a restriction on a member's account. When you issue a formal warning to someone, they receive warning points dependent on the Warning Definition. These points are then used to trigger automatic bans from posting, and the length of the ban depends on the number of points.
 
 | Points | Posting Ban |
 | --- | --- |
@@ -164,6 +164,6 @@ A ban is a restriction on a members account. These restrictions can affect posti
 
 ## Member Administrative Reviews (MARs)
 
-If a member repeatedly breaks the forum rules or behaves in a manner that raises concerns about their presence on the forum then a Member Administrative Review can be conducted. Any member of staff can create a Member Administrative Review on the Forum Moderation board following the guidelines outlined in the [Member Administrative Review](https://trello.com/c/4c3Dy6jJ/1867-member-administrative-review) card. 
+If a member repeatedly breaks the forum rules or behaves in a manner that raises concerns about their presence on the forum then a Member Administrative Review can be conducted. Any member of staff can create a Member Administrative Review on the Forum Moderation, board following the guidelines outlined in the [Member Administrative Review](https://trello.com/c/4c3Dy6jJ/1867-member-administrative-review) card. 
 
 There are no criteria for when a member should have an Member Administrative Review, it is up to each individual staff member to decide if they think one is neccessary. Usually when a member reaches 4 or more warnings in a short period of time a MAR will be created.
