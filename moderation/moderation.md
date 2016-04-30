@@ -98,7 +98,7 @@ Reports enter the system with the **new** status and from there moderators chang
 
 ### Escalating a Report
 
-Some reports require input from or action by a particular member of staff, however the report system does not have native support for assigning reports. To work around this issue we use Trello and the Escalated report status. A card should be created and assigned to the staff member on the [Forum Moderation Trello Board](https://trello.com/b/VP7ordvf/forum-moderation) with a link to the report attached, then the report should be marked as Escalated with a comment providing a link to the trello card.
+Some reports require input from or action by a particular member of staff, however the report system does not have native support for assigning reports. To work around this issue we use Trello and the Escalated report status. A card should be created and assigned to the staff member on the [Forum Moderation Trello Board](https://trello.com/b/VP7ordvf/forum-moderation) with a link to the report attached, then the report should be marked as Escalated with a comment providing a link to the Trello card.
 
 ## Status Notes
 
